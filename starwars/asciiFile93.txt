@@ -1,0 +1,35 @@
+____________________________________________________________________________
+%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                                     I n t e r i o r ,   L e v e l s   1 - 5
+                                     ---------------------------------------
+
+          ______         ______      The first 5 levels of the garrison com-
+         / ____ \_______/ ____ \     plex are of identical layout, construc-
+        / /    \_________/    \ \    ted  around  a  level-spanning  surface
+       / /      |   3   |  5   \ \   vehicle bay.  Refer to the key below to
+       \ \       \_____/_______/ /   determine what each level contains.
+       / /    o   |o o|   o    \ \
+    __/ /  2    .' o4o `.    6  \ \__    1 ... Storage Gallery (levels 1-2),
+   / __/      .' ._o_o_. `.      \__ \         Armory (levels 3-4), Training
+  / /  `-.  .' .'  10   `. `.  .-'  \ \        Facilities   and   Recreation
+ / /      ~' .'`-._____.-'`. `~      \ \       Rooms (level 5)
+ \ \     o  <  C  | | |  D  >  o  7  / / 2 ... Stormtrooper Barracks (levels
+  \ \__      \    ' ' '    /      __/ /        1-3),    Security    Barracks
+   \__ \  1  |----  9  ----|~-._ / __/         (levels 4-5)
+      \ \    |====    B====|    Y /      3 ...... Base Security (levels 1-5)
+       \ \   |----     ----|   / /       4 ......... Turbolifts (levels 1-6)
+       / /   |__A_     _ __| 8 \ \       5 .... Detention Block (levels 1-5)
+       \ \      | |   | |      / /       6 ... Technical and Service Person-
+        \ \_____| |   | |_____/ /              nel Barracks (levels 1-5)
+         \_____ `o|   |o' _____/         7 ... Technical Shops (levels 1-2),
+               `--'   `--'                     Medical   Bay    (level   3),
+                                               Science Labs (levels 4-5)
+                8 ... Storage Gallery (levels 1-2), Droid Shops (levels 3-5)
+                9 ...................... Surface Vehicle  Bay  (levels 1-5):
+                A .................................. AT-ST Scout Walker Bays
+                B ........................................ AT-AT Walker Bays
+                C ...................... Vehicle Maintenance and Repair Deck
+                D ........................................ Speeder Bike Deck
+                10 ........................... Miscellaneous Vehicle Parking

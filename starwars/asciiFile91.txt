@@ -1,0 +1,22 @@
+____________________________________________________________________________
+%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                                                 O u t e r   D e f e n s e s
+            |                      |             ---------------------------
+         ^_[]_^                 ^_[]_^
+         |----|               5 |----|        1 ... High Voltage Death Fence
+ ________`-..-'________4________`-..-'______  2 ....... Perimeter Gate House
+ ===========================================  3 ........ Powered Force Field
+          `||'                   `||'         4 .......... Fortified Catwalk
+           ||     ^==^   ^==^     ||          5 .......... Observation tower
+ ___.____._ll_._1_|--|   |--|___._ll_.____.____
+ XXX|XXXX|XIIX|XXX|--| 3 |--|XXX|XIIX|XXXX|XXXX
+ XXX|XXXX|XIIX|XXX| 2|   |  |XXX|XIIX|XXXX|XXXX
+
+ The outer perimeter is  marked  by a  high-voltage  "death fence."  Powered
+ force fields  placed at regular intervals along the fence may be turned off
+ to permit entry and exit.  Observation towers,  connected by fortified cat-
+ walks,  are set back from the fence and constantly manned by stormtroopers.
+ Other outer  defenses  include energy mine fields,  modified patrol Droids,
+ and AT-ST Scout Walkers.

@@ -1,0 +1,23 @@
+____________________________________________________________________________
+%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                                           I n t e r i o r ,   L e v e l   6
+                                           ---------------------------------
+         ____           ____
+        / __ \_________/ __ \        Base command personnel,  control rooms,
+       / /  \___________/  \ \       trade mission,  and  diplomatic offices
+       \ \ o     oo      o / /       are located on this level.
+       / /       oo----.   \ \
+      / /   8  __oo     `.1 \ \      1 ....... Sensor Monitors, Tractor Beam
+   __/ /\    .~  ||   2   \  \ \__                       and Shield Controls
+  / __/  \ .' 9.-'`-.      | /\__ \  2 ....................... Computer Room
+ / /   o  \|__:   o  :_____|/ o  \ \ 3 ....................... Meeting Rooms
+ \ \__  7 .---: 10   :------.3 __/ / 4 ...... Officers' and Pilots' Quarters
+  \__ \  /     `-..-'        \/ __/  5 ... Trade Mission, Diplomatic Offices
+     \ \/\   5   ||          / /     6 ........... Base Commander's Quarters
+      \ \ `.     ||    4    / /                                  and offices
+       \ \ o~`---||      o / /       7 ............ Officer Recreation Rooms
+       / /6  ____||_____   \ \       8 ............................. Offices
+       \ \__/ _________ \__/ /       9 ................... Base Control Room
+        \____/         \____/        10 ..................... Reception Area
